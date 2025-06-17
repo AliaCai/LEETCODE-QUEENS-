@@ -28,4 +28,4 @@ class Solution:
             if(height[right]>height[left]):
                 left=left+1;
             else:
-                right=right-1;
+                right=right-1;  
